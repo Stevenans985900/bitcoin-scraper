@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.8.0)
+    curb (0.9.4)
+    mini_portile2 (2.3.0)
+    nokogiri (1.8.1)
+      mini_portile2 (~> 2.3.0)
+    oj (3.3.9)
+    oj_mimic_json (1.0.1)
+    parallel (1.12.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  curb
+  nokogiri
+  oj
+  oj_mimic_json
+  parallel
+
+BUNDLED WITH
+   1.15.2
